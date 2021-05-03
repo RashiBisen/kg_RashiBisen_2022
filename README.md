@@ -1,4 +1,4 @@
-# kg_RashiBisen_2021
+# kg_RashiBisen_2022
 JavaScript program for Kargo Assessment:
 
 Convert an array of integers into an array of strings representing the phonetic equivalent of the
